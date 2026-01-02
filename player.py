@@ -11,7 +11,6 @@ from constants import (
 import pygame
 
 from shot import Shot
-import shot
 
 
 class Player(CircleShape):
